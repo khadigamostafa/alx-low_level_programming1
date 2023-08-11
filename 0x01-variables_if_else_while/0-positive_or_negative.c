@@ -1,8 +1,3 @@
-/**
- * main - the main function describes the main common in all c program
- *
- *Return: it is  always 0
- */
 #include <stdlib.h>
 #include <time.h>
 /**
