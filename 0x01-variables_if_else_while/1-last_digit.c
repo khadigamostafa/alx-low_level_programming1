@@ -6,10 +6,9 @@
  *
  *Return: it is  always 0
  */
-
 int main(void)
 {
-	int n;
+	int n,digit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
