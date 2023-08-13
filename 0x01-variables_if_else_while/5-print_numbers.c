@@ -10,9 +10,9 @@ int main(void)
 
 	while (num <= 9)
 	{
-		Printf(“ % d ”, num);
+		Printf("%i”, num);
 		num++;
 	}
-	printf(“\n”);
+	printf("\n");
 	return (0);
 }
