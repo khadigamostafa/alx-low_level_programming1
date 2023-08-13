@@ -8,7 +8,7 @@ int main(void)
 {
 	int char_c = 0;
 
-	while (char_c <= 0)
+	while (char_c <= 9)
 	{
 		putchar(char_c + 48);
 		if (char_c != 9)
